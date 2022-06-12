@@ -4,6 +4,12 @@
 
 Layout supports mobile and desktop versions
 
+<kbd>
+  <img align="right" alt="img" src="pxHn4z7.jpeg"  />
+ </kbd>
+
+
+
 ### The tech stack is:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
